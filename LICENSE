@@ -1,0 +1,63 @@
+# Custom License — ZIP Bomb Generator
+
+**Copyright (c) 2026 Samarth Mishra**
+
+All rights reserved.
+
+## 1. Ownership
+
+The source code, documentation, and original materials in this repository are owned by Samarth Mishra, unless otherwise stated.
+
+## 2. Permission to Use
+
+Permission is granted to individuals to view, study, and use this project for personal learning, cybersecurity education, compression research, and authorized defensive security testing.
+
+## 3. Restrictions
+
+Without prior written permission from the copyright holder, you may not:
+
+- Sell, sublicense, or commercially redistribute this project or substantial portions of it.
+- Redistribute modified or unmodified copies as your own original work.
+- Use this project to intentionally disrupt systems, exhaust another party's resources, damage data, or interfere with services without authorization.
+- Represent this project as officially endorsed by or affiliated with the copyright holder.
+
+## 4. Attribution
+
+When referencing, reproducing, or sharing permitted portions of this project, you must provide appropriate credit to the original author and include a link to the original repository:
+
+https://github.com/samarth2703/Zip-bomb-generator
+
+## 5. Security and Responsible Use
+
+This project demonstrates archive compression and expansion behavior that may pose resource-exhaustion risks.
+
+Users are responsible for ensuring that their use of this project is lawful, authorized, and appropriately isolated. The project must not be used to intentionally harm systems or services.
+
+## 6. Disclaimer of Warranty
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, DATA LOSS, SYSTEM FAILURE, OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY TO USE THIS SOFTWARE.
+
+## 7. Limitation of Liability
+
+Nothing in this license excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
+
+## 8. Termination
+
+Permission granted under this license terminates automatically if a recipient materially violates its terms. Rights may be reinstated if the violation is corrected and reinstatement is permitted by the copyright holder.
+
+## 9. Amendments
+
+The copyright holder reserves the right to change the licensing terms for future distributions. Such changes do not retroactively alter permissions already granted under a valid license for existing copies.
+
+## 10. Governing Law
+
+This license shall be interpreted in accordance with applicable law. Any governing-law or jurisdiction questions shall be resolved subject to applicable legal requirements.
+
+---
+
+**Author:** Samarth Mishra  
+**Project:** ZIP Bomb Generator  
+**Repository:** https://github.com/samarth2703/Zip-bomb-generator  
+**Year:** 2026
