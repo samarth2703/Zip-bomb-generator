@@ -93,11 +93,13 @@ When building software that accepts ZIP files, consider enforcing:
 - ZIP readers and security scanners may reject oversized or suspicious archives.
 - The script does not automatically extract the generated archive.
 
-## Disclaimer
+<span style="color: red;">##Disclaimer</span>
+
+<span style="color: red;">
 
 This project is intended for cybersecurity education, compression research, and defensive testing in authorized, isolated environments.
 
 The author is not responsible for data loss, service disruption, storage exhaustion, or other damage resulting from unsafe execution or extraction of generated archives.
 
 Use responsibly and only on systems you own or have explicit authorization to test.
-
+</span>
